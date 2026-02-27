@@ -30,7 +30,9 @@ compliance of the solution with relation to a specification.
 
 ## Office Hours
 
-Please make an appointment by email (pedro.h.alves@gmail.com).
+Please make an appointment by email: 
+
+![](email.png)
 
 ## Program, Schedule, and Materials
 

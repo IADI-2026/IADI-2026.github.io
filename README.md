@@ -56,18 +56,20 @@ Please make an appointment by email:
 | 8    | 23 Apr                | Microservices architecture revisited and explored in depth. Critical perspective.                                                   |                                                                         |
 | 8    | 23, 24, 28 Apr        | Application with Eureka and Feign                                                                                                   |                                                                         |
 | 9    | 30 Apr                | Q&A                                                                                                                                 |                                                                         |
+|      | 30 Apr                | Test 1                                                                                                                              |                                                                         |
 | 9    | 30, Apr; **1**, 5 May | Project support                                                                                                                     |                                                                         |
 |      | 6 May                 | Project - Part 2                                                                                                                    |
-|      | 9 May                 | Test 1                                                                                                                              |
+|      | ~~9 May~~             | ~~Test 1~~ (changed to 30 Apr)                                                                                                      |
 | 10   | 7 May                 | User-centric development. Browser as a virtual machine. Client-side frameworks                                                      |                                                                         |
 | 10   | 7, 8, 12 Mai          | React with Typescript                                                                                                               |                                                                         |
 | 11   | 14 May                | MPAs vs SPAs. React/Redux                                                                                                           |                                                                         |
 | 11   | 14, 15, 19 May        | State Management with Redux                                                                                                         |                                                                         |
 | 12   | 21 May                | Mobile development architectures. Flutter.                                                                                          |                                                                         |
 | 12   | 21, 22, 26 May        | Project support                                                                                                                     |
+|      | 23 May                | Test 2                                                                                                                              |
 | 13   | 28 May                | Q&A - Recap and Trends. Best practices                                                                                              |                                                                         |
 | 13   | 28, 29 May            | Project support                                                                                                                     |
 |      | 29 May                | Project - Part 3                                                                                                                    |
-|      | 1 Jun                 | Test 2                                                                                                                              
+|      | ~~1 Jun~~             | ~~Test 2~~ (changed to 23 May)                                                                                                      
 |      | 8, 9 Jun              | Project discussions                                                                                                                 
 |      | 22 Jun                | Exam                                                                                                                                

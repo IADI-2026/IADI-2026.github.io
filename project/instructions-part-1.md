@@ -2,6 +2,11 @@
 
 ---
 
+### Change log
+
+- 31-03-2026: Added a clarification in the "Working Teams" section, regarding team splitting and joining in later
+  parts of the project.
+
 ## Introduction
 
 This document describes Part 1 of the Airport Management System project for the course **Internet Applications Design
@@ -68,17 +73,22 @@ history.
 ## Working Teams
 
 The project assignment should be done by teams of 2 or 3. If you cannot make a team of 2 or 3, talk to the instructor to
-authorize other solutions. 
+authorize other solutions.
 
-To register your team, you will receive a GitHub Classroom invite link — check your email or CLIP Messages. 
-When creating your team, use your student numbers as the team name, ordered from lowest to highest and separated them 
-by `_` (e.g., `70001_70002_70003`). Once the team is created, the remaining members can join it and access the team's repository.
+To register your team, you will receive a GitHub Classroom invite link — check your email or CLIP Messages.
+When creating your team, use your student numbers as the team name, ordered from lowest to highest and separated them
+by `_` (e.g., `70001_70002_70003`). Once the team is created, the remaining members can join it and access the team's
+repository.
+
+Teams must remain the same for Parts 2 and 3 of the project. In exceptional and justified situations, a student may
+leave their team and continue the project individually, but only after discussing it with the instructor and receiving
+approval. Under no circumstances may a student join a different team in later parts.
 
 ## Assignment Submission
 
-This assignment must be completed and submitted via GitHub. Push your final version of Part 1 to your team's repository 
-before the deadline. Only the last commit before the deadline will be considered; late submissions will not 
-be accepted. Please ensure your repository is correctly structured and includes all required files. If you experience 
+This assignment must be completed and submitted via GitHub. Push your final version of Part 1 to your team's repository
+before the deadline. Only the last commit before the deadline will be considered; late submissions will not
+be accepted. Please ensure your repository is correctly structured and includes all required files. If you experience
 any issues with GitHub Classroom, contact us as soon as possible.
 
 ## Deliverables

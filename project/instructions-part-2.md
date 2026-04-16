@@ -110,7 +110,7 @@ You should use the RBAC and MBAC techniques taught in the classes and follow the
 
 ## Testing
 
-All microservices and the web application must include automated unit and integration tests (coverage must be at least
+All microservices and the web application must include automated unit and integration tests (line coverage must be at least
 50% per module).
 
 ## Initial Data

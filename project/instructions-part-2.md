@@ -2,6 +2,10 @@
 
 ---
 
+### Change log
+
+- 04-05-2026: Postponed deadline to 10 May 2026.
+
 ## Introduction
 
 In Part 2, your team must implement a **working subset** of the Airport Management System designed in Part 1.
@@ -248,4 +252,5 @@ to meet new requirements without AI assistance; failure to do so may result in p
 
 ## Deadline
 
-**6 May 2026 — 23:59**
+~~6 May 2026 — 23:59~~
+**10 May 2026 — 23:59**

@@ -66,7 +66,7 @@ Please make an appointment by email:
 | 12   | 21 May                | Mobile development architectures.                                                                                        | [slides](slides/lecture-11-mobile.pdf)                                                                                   |
 | 12   | 21, 22, 26 May        | Project support                                                                                                          |
 |      | 23 May                | Test 2                                                                                                                   |
-| 13   | 28 May                | Q&A - Recap and Trends. Best practices                                                                                   |                                                                                                                          |
+| 13   | 28 May                | Q&A - Recap and Trends.                                                                                                  | [slides](slides/lecture-12-recap.pdf)                                                                                    |
 | 13   | 28, 29 May            | Project support                                                                                                          |
 |      | ~~29 May~~ 31 May     | Project - Part 3                                                                                                         |
 |      | 8, 9 Jun              | Project discussions                                                                                                      
